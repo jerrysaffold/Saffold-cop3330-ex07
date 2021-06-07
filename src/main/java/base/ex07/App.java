@@ -41,7 +41,7 @@ public class App {
         int square_feet = length * width;
         double square_meters = square_feet * conversion;
 
-        System.out.printf("You entered dimensions of %d by %d.\n", length, width);
+        System.out.printf("You entered dimensions of %d feet by %d feet.\n", length, width);
         System.out.printf("%d square feet\n%.3f square meters", square_feet, square_meters);
     }
 
