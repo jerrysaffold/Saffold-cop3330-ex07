@@ -1,7 +1,7 @@
 package base.ex07;
 /*
- *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  UCF COP3330 Summer 2021 Assignment 7 Solution
+ *  Copyright 2021 Jerry Saffold
  */
 
 import java.util.Scanner;
